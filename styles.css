@@ -1,0 +1,31 @@
+img{width: 300px;
+
+}
+
+.size{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.header{
+    text-align: center;
+    background-color: brown;
+
+}
+.color-small{
+    background-color: green;
+}
+
+.color-large{
+    background-color: green;
+}
+
+.color-medium{
+    background-color: green;
+}
+
+.DELIVARY{
+    text-align: right;
+    background-color: rgb(92, 80, 255);
+}
